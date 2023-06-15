@@ -1,6 +1,6 @@
-CREATING HABITS
+# CreatingHabits
 
-Welcome to your new habits software. With CREATING-HABITS you'll be able to keep on track your habits clean and easy.
+Welcome to your new habits software. With CreatingHabits you'll be able to keep on track your habits clean and easy.
 
 You can run the software in your browser.
 
